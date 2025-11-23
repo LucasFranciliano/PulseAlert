@@ -11,4 +11,4 @@ WORKDIR /app
 
 COPY --from=build /app/out .
 
-ENTRYPOINT ["dotnet", "SamarcoMqttToIoTHubSubscriber.dll"]
+ENTRYPOINT ["dotnet", "PulseAlertMqtt.dll"]
