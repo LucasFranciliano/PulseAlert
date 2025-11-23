@@ -1,0 +1,108 @@
+2025-11-05 05:18:29 - Application started.
+2025-11-05 05:18:30 - Connected to MQTT broker.
+2025-11-05 05:18:30 - Subscribed to MQTT topic: teste/samarco
+2025-11-05 05:26:03 - Application started.
+2025-11-05 05:26:05 - Connected to MQTT broker.
+2025-11-05 05:26:05 - Subscribed to MQTT topic: testtopic/1
+2025-11-05 05:26:05 - [MQTT RECEIVED] 255,0,0
+2025-11-05 05:26:09 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 05:26:15 - [MQTT RECEIVED] teste
+2025-11-05 05:26:17 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 05:26:19 - [MQTT RECEIVED] teste
+2025-11-05 05:26:20 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 05:26:21 - [MQTT RECEIVED] teste
+2025-11-05 05:26:22 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 05:26:22 - [MQTT RECEIVED] teste
+2025-11-05 05:26:23 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 05:26:30 - [MQTT RECEIVED] teste 2
+2025-11-05 05:26:31 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 09:16:54 - Application started.
+2025-11-05 09:16:55 - Connected to MQTT broker.
+2025-11-05 09:16:55 - Subscribed to MQTT topic: testtopic/1
+2025-11-05 09:16:55 - [MQTT RECEIVED] visca Barca
+2025-11-05 09:16:57 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 09:17:19 - Application started.
+2025-11-05 09:17:19 - Connected to MQTT broker.
+2025-11-05 09:17:19 - Subscribed to MQTT topic: topic/1
+2025-11-05 09:17:20 - [MQTT RECEIVED] 1
+2025-11-05 09:17:21 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 09:19:15 - Application started.
+2025-11-05 09:19:16 - Connected to MQTT broker.
+2025-11-05 09:19:16 - Subscribed to MQTT topic: topictest/1
+2025-11-05 09:20:12 - [MQTT RECEIVED] Mensagem teste
+2025-11-05 09:20:13 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 09:20:26 - [MQTT RECEIVED] Mensagem teste
+2025-11-05 09:20:28 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 09:20:49 - [MQTT RECEIVED] Mensagem teste
+2025-11-05 09:20:50 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 10:07:50 - Disconnected from MQTT broker. Attempting to reconnect...
+2025-11-05 10:07:59 - Reconnected to MQTT broker.
+2025-11-05 10:17:11 - Disconnected from MQTT broker. Attempting to reconnect...
+2025-11-05 10:17:21 - Reconnected to MQTT broker.
+2025-11-05 10:24:47 - Disconnected from MQTT broker. Attempting to reconnect...
+2025-11-05 10:24:57 - Reconnected to MQTT broker.
+2025-11-05 10:26:24 - Application started.
+2025-11-05 10:26:30 - Connected to MQTT broker.
+2025-11-05 10:26:30 - Subscribed to MQTT topic: topictest/1
+2025-11-05 10:26:37 - [MQTT RECEIVED] Mensagem teste
+2025-11-05 10:26:39 - Error sending message to IoT Hub: CONNECT failed: RefusedNotAuthorized
+2025-11-05 10:31:07 - Application started.
+2025-11-05 10:31:11 - Connected to MQTT broker.
+2025-11-05 10:31:11 - Subscribed to MQTT topic: topictest/1
+2025-11-05 10:31:17 - [MQTT RECEIVED] Mensagem teste
+2025-11-05 10:31:20 - Message sent to IoT Hub: Mensagem teste
+2025-11-05 10:41:11 - Disconnected from MQTT broker. Attempting to reconnect...
+2025-11-05 13:05:06 - Application started.
+2025-11-05 13:05:06 - Connected to MQTT broker.
+2025-11-05 13:05:06 - Subscribed to MQTT topic: topictest/1
+2025-11-05 13:05:34 - [MQTT RECEIVED] Mensagem teste do HiveMQ 01
+2025-11-05 13:05:36 - Message sent to IoT Hub: Mensagem teste do HiveMQ 01
+2025-11-05 13:06:11 - [MQTT RECEIVED] Mensagem teste do HiveMQ 02
+2025-11-05 13:06:11 - Message sent to IoT Hub: Mensagem teste do HiveMQ 02
+2025-11-05 13:06:14 - [MQTT RECEIVED] Mensagem teste do HiveMQ 03
+2025-11-05 13:06:14 - Message sent to IoT Hub: Mensagem teste do HiveMQ 03
+2025-11-05 13:20:02 - Application started.
+2025-11-05 13:20:02 - Connected to MQTT broker.
+2025-11-05 13:20:02 - Subscribed to MQTT topic: topictest/1
+2025-11-05 13:21:00 - [MQTT RECEIVED] Mensagem teste do HiveMQ 01
+2025-11-05 13:21:04 - Error sending message to IoT Hub: Specified method is not supported.
+2025-11-05 13:21:04 - [MQTT RECEIVED] Mensagem teste do HiveMQ 02
+2025-11-05 13:21:05 - Error sending message to IoT Hub: Specified method is not supported.
+2025-11-05 13:21:05 - [MQTT RECEIVED] Mensagem teste do HiveMQ 03
+2025-11-05 13:21:06 - Error sending message to IoT Hub: Specified method is not supported.
+2025-11-05 13:22:21 - Application started.
+2025-11-05 13:22:22 - Connected to MQTT broker.
+2025-11-05 13:22:22 - Subscribed to MQTT topic: topictest/1
+2025-11-05 13:22:26 - [MQTT RECEIVED] Mensagem teste do HiveMQ 03
+2025-11-05 13:22:27 - Error sending message to IoT Hub: Specified method is not supported.
+2025-11-05 13:22:51 - Application started.
+2025-11-05 13:22:52 - Connected to MQTT broker.
+2025-11-05 13:22:52 - Subscribed to MQTT topic: topictest/1
+2025-11-05 13:23:00 - [MQTT RECEIVED] Mensagem teste do HiveMQ 03
+2025-11-05 13:23:01 - Error sending message to IoT Hub: Specified method is not supported.
+2025-11-05 13:24:42 - Application started.
+2025-11-05 13:24:43 - Connected to MQTT broker.
+2025-11-05 13:24:43 - Subscribed to MQTT topic: topictest/1
+2025-11-05 13:24:48 - [MQTT RECEIVED] Mensagem teste do HiveMQ 03
+2025-11-05 13:24:49 - Error sending message to IoT Hub: Specified method is not supported.
+2025-11-05 13:24:56 - [MQTT RECEIVED] Mensagem teste do HiveMQ 02
+2025-11-05 13:24:56 - Error sending message to IoT Hub: Specified method is not supported.
+2025-11-05 13:28:37 - Application started.
+2025-11-05 13:28:38 - Connected to MQTT broker.
+2025-11-05 13:28:38 - Subscribed to MQTT topic: topictest/1
+2025-11-05 13:28:48 - [MQTT RECEIVED] Mensagem teste do HiveMQ 01
+2025-11-05 13:28:49 - Error sending message to IoT Hub: Operation is not valid due to the current state of the object.
+2025-11-05 13:28:50 - [MQTT RECEIVED] Mensagem teste do HiveMQ 02
+2025-11-05 13:28:53 - Message sent to IoT Hub: Mensagem teste do HiveMQ 02
+2025-11-05 13:28:53 - [MQTT RECEIVED] Mensagem teste do HiveMQ 03
+2025-11-05 13:28:53 - Message sent to IoT Hub: Mensagem teste do HiveMQ 03
+2025-11-05 13:29:12 - [MQTT RECEIVED] Mensagem teste do HiveMQ 04
+2025-11-05 13:29:12 - Message sent to IoT Hub: Mensagem teste do HiveMQ 04
+2025-11-05 13:34:50 - Application started.
+2025-11-05 13:34:50 - Connected to MQTT broker.
+2025-11-05 13:34:50 - Subscribed to MQTT topic: topictest/1
+2025-11-05 13:35:56 - [MQTT RECEIVED] Mensagem teste do HiveMQ 01
+2025-11-05 13:35:59 - [MQTT RECEIVED] Mensagem teste do HiveMQ 02
+2025-11-05 13:36:02 - [MQTT RECEIVED] Mensagem teste do HiveMQ 03
+2025-11-05 13:36:05 - [MQTT RECEIVED] Mensagem teste do HiveMQ 04
+2025-11-05 13:36:08 - [MQTT RECEIVED] Mensagem teste do HiveMQ 05

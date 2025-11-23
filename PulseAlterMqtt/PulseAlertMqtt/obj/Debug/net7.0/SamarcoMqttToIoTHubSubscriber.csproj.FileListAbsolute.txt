@@ -1,0 +1,404 @@
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\appsettings.json
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.exe
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.deps.json
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.runtimeconfig.json
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Azure.Core.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Buffers.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.Mqtt.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Common.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Handlers.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Transport.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Client.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Shared.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Json.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.AssemblyReference.cache
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfoInputs.cache
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfo.cs
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.CoreCompileInputs.cache
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoM.58FC520A.Up2Date
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\refint\SamarcoMqttToIoTHubSubscriber.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.genruntimeconfig.cache
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\ref\SamarcoMqttToIoTHubSubscriber.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\appsettings.json
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.exe
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.deps.json
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.runtimeconfig.json
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Azure.Core.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Azure.Storage.Common.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Buffers.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.Mqtt.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Common.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Handlers.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Transport.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Client.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Shared.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Json.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.AssemblyReference.cache
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfoInputs.cache
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfo.cs
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.CoreCompileInputs.cache
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.CopyComplete
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\refint\SamarcoMqttToIoTHubSubscriber.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.genruntimeconfig.cache
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\ref\SamarcoMqttToIoTHubSubscriber.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\DotNET\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos Automacoes\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\appsettings.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.exe
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.deps.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.runtimeconfig.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Buffers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Common.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Handlers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Transport.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.AssemblyReference.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfoInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfo.cs
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoM.58FC520A.Up2Date
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\refint\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.genruntimeconfig.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\ref\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\appsettings.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.exe
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.deps.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.runtimeconfig.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Buffers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Common.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Handlers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Transport.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.AssemblyReference.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfoInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfo.cs
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoM.58FC520A.Up2Date
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\refint\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.genruntimeconfig.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v2.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\ref\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.AssemblyReference.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfoInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfo.cs
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\refint\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\appsettings.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.exe
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.deps.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.runtimeconfig.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Buffers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Common.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Handlers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Transport.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoM.58FC520A.Up2Date
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.genruntimeconfig.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\ref\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\appsettings.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.exe
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.deps.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.runtimeconfig.json
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Buffers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Codecs.Mqtt.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Common.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Handlers.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\DotNetty.Transport.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Client.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.AssemblyReference.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfoInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.AssemblyInfo.cs
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoM.58FC520A.Up2Date
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\refint\SamarcoMqttToIoTHubSubscriber.dll
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.pdb
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\SamarcoMqttToIoTHubSubscriber.genruntimeconfig.cache
+C:\Users\lfran\OneDrive\Desktop\SamarcoMqttToIoTHubSubscriber - v3.0 - Copia\SamarcoMqttToIoTHubSubscriber\obj\Debug\net7.0\ref\SamarcoMqttToIoTHubSubscriber.dll
